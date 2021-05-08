@@ -11,4 +11,6 @@ There are no site previews available, as I have no resources to host both the PH
 - managing mysql databases with phpmyadmin
 
 ## Activities include
-- 
+- php server-side form validation
+- php image manipulation
+- php sites using mysql database for data persistence
