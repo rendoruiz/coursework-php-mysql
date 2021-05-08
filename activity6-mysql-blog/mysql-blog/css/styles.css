@@ -1,0 +1,31 @@
+/* Here we can add anything we want to suit our project. */
+
+html { box-sizing: border-box; }
+*, *:before, *:after { box-sizing: inherit; }
+
+.blob-emoji {
+  width: 20px;
+  height: 20px;
+  margin: 2px;
+}
+.emoji-bar {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.emoji-bar .blob-emoji {
+  width: unset;
+  height: unset;
+  min-width: 28px;
+  min-height: 28px;
+  max-width: 100%;
+  max-height: 100%;
+}
+.emoji-bar > a {
+  padding: 3px;
+  flex: 0;
+}
+
+.jumbotron{
+	padding: 30px;
+}

@@ -1,0 +1,43 @@
+
+		<div class="blogpost">
+		  <div class="posttitle">Lab 2 finished!</div>
+		  <div class="postdate">September 25, 2020, 3:03 pm</div>
+		  <div class="postcontent">Sorted out all the bugs. I think it looks fine and usable.
+<br>I changed the logout mechanism to redirect back to the page where the button is clicked. E.g.: clicking on the logout button on the homepage will automatically redirect back to the homepage, then logging out on the new blog entry will redirect back to the new blog entry page.<br>Phew! That was quite wordy!</div>
+		</div>
+
+		<div class="blogpost">
+		  <div class="posttitle">Terrible Luck</div>
+		  <div class="postdate">September 25, 2020, 2:57 pm</div>
+		  <div class="postcontent">It has been a few days since the Microsoft's Xbox Series X console pre-order has start and I still can't get a hold of one. I hope they'll get their stock sorted out soon.</div>
+		</div>
+
+		<div class="blogpost">
+		  <div class="posttitle">So messy...</div>
+		  <div class="postdate">September 25, 2020, 2:54 pm</div>
+		  <div class="postcontent">While the fall looks good and all with the leaves slowly changing their colour, the mess they are leaving (heh) behind is a huge pain.</div>
+		</div>
+
+		<div class="blogpost">
+		  <div class="posttitle">Return Parcel</div>
+		  <div class="postdate">September 25, 2020, 2:52 pm</div>
+		  <div class="postcontent">Finally back from Canada Post after dropping off my Amazon return order.<br>I am glad there was no customers in line when I went in.</div>
+		</div>
+
+		<div class="blogpost">
+		  <div class="posttitle">Lab 2 progress</div>
+		  <div class="postdate">September 25, 2020, 2:50 pm</div>
+		  <div class="postcontent">All the HTML/CSS work is finished. Time for some PHP logic!</div>
+		</div>
+
+		<div class="blogpost">
+		  <div class="posttitle">A Fine Weather</div>
+		  <div class="postdate">September 25, 2020, 2:49 pm</div>
+		  <div class="postcontent">Although it is starting to get cold, the sun is still out shining so brightly and warming things up!</div>
+		</div>
+
+		<div class="blogpost">
+		  <div class="posttitle">My first blogpost</div>
+		  <div class="postdate">September 25, 2020, 2:48 pm</div>
+		  <div class="postcontent">Hello! I am Rendo Ruiz and this is my first blog post on this brand new blog of mine.</div>
+		</div>
